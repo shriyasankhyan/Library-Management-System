@@ -9,6 +9,7 @@ The library management system software makes the library a smart one by organizi
 Students need access to authentic information. An advanced organized library is an integral part of any educational institution. In this digital age a web-based library management system would be ideal for students who can access the library’s database on their smartphones. 
  
 <img src ="https://github.com/shriyasankhyan/Library-Management-System/blob/main/imgs/93962518.jpg">
+
 ### PROBLEM DESCRIPTION 
 In today’s world where every field is getting digitalized to save time and human labour library management is one the chaotic and hard to handle information manually. Maintaining records of the books, new books, books already issued, number of particular books available, due dates, when the books to be returned when issued all this information stored manually consumes a lot of time and energy and there are high chances of mistakes been done and when there are lots of people to handle it becomes more difficult to handle such a large amount of data.   
  
