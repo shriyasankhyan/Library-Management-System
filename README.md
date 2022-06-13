@@ -61,7 +61,7 @@ Click on add book
  
  
 ### RESULT AND DISCUSSIONS (Database Connectivity) 
-img src = "https://github.com/shriyasankhyan/Library-Management-System/blob/main/imgs/database1.jpg">
+<img src = "https://github.com/shriyasankhyan/Library-Management-System/blob/main/imgs/database1.jpg">
 
-img src = "https://github.com/shriyasankhyan/Library-Management-System/blob/main/imgs/databse2.jpg">
+<img src = "https://github.com/shriyasankhyan/Library-Management-System/blob/main/imgs/databse2.jpg">
   
